@@ -1,0 +1,1 @@
+("8.0" ta6le ("40f5d7bf295b06f1a3548f493b41d370435f06fc" . "c5a217dff2a7fb639a3a181e0f943f7ff9f8d404") #"/home/tibi/Tibi/UpbAcsCti/22/PP/etapa-4/queue.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"runtime-config.rkt"))
